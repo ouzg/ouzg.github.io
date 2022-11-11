@@ -1,3 +1,0 @@
-# ouzg.github.io
-
-heyheyhey.
