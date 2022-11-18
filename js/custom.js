@@ -1,8 +1,11 @@
 (function ($) {
 
   "use strict";
-
     // COLOR MODE
+    //FIRST DARK MODE
+    $('.color-mode-icon').toggleClass('active')
+    $('body').toggleClass('dark-mode')
+    //COLOR MODE WHITE-MODE
     $('.color-mode').click(function(){
         $('.color-mode-icon').toggleClass('active')
         $('body').toggleClass('dark-mode')
